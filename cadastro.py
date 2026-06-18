@@ -1,2 +1,3 @@
 so = str(input("Digite o sobrenome: "))
-print(so)
+
+print(f"sobrenome: {so}")
