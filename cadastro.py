@@ -1,5 +1,3 @@
-curso = input("Digite o nome do seu curso: ")
-
-print(f"Seu curso: {curso} ")
-so = str(input("Digite o sobrenome: "))
-print(so)
+nome = input("Digite seu nome: ")
+sobrenome = str(input("Digite o sobrenome: "))
+print(f"{nome} {sobrenome}")
